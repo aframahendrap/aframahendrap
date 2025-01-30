@@ -1,6 +1,6 @@
 ## Hi I'm Afra, welcome to my little worls 👋
 
-😁 I'm an undergraduate Informatics Student in Telkom University.<br><br>📚 I’m currently learning about data science and AI.<br><br>👩‍💼 Seeking for a job that relate with data science and AI.<br><br>So on this GitHub, I want to show you all the projects I have worked on.<br><br>Thank You💖💖
+😁 I'm an undergraduate Informatics Student in Telkom University.<br><br>📚 I’m currently learning about data science and AI.<br><br>👩‍💼 Looking for a job related to data science and AI.<br><br>So on this GitHub, I want to show you all the projects I have worked on.<br><br>Thank You💖💖
 
 
 ## 🌐 Socials:
